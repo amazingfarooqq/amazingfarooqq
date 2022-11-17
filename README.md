@@ -20,7 +20,7 @@
 
 </a>
 <a href="https://instagram.com/amazingfarooqq" target="blank">
-<img src=https://img.shields.io/badge/instagram-25k%2B-red alt=github style="margin-bottom: 5px;" height="24px" />
+<img src=https://img.shields.io/badge/instagram-24k%2B-red alt=github style="margin-bottom: 5px;" height="24px" />
 
 </a>
 

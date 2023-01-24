@@ -34,11 +34,6 @@
 
 ## 📌 Github Stats
 
-<div align="center" width="280px" >
-    
-![amazingfarooqq's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazingfarooqq&show_icons=true )
-    
-</div> 
 
 <div align="center" width="380px" >
     

@@ -10,15 +10,7 @@
 
 <div align="center">
 
-<a href="https://twitter.com/amazingfarooqq" target="blank">
-<img src=https://img.shields.io/twitter/follow/amazingfarooqq?logo=twitter&style&color=blue alt=twitter style="margin-bottom: 5px;" height="24px" />
-</a>
-<a href="https://github.com/amazingfarooqq" target="blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" height="24px" />
 
-</a>
-
-</a>
 <a href="https://instagram.com/amazingfarooqq" target="blank">
 <img src=https://img.shields.io/badge/instagram-24k%2B-red alt=github style="margin-bottom: 5px;" height="24px" />
 
@@ -34,6 +26,11 @@
 
 ## 📌 Github Stats
 
+<div align="center" width="280px" >
+    
+![amazingfarooqq's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazingfarooqq&show_icons=true )
+    
+</div> 
 
 <div align="center" width="380px" >
     

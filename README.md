@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=amazingfarooqq&include_all_commits=true&count_private=true&show_icons=true&theme=material-palenight&hide=contribs&hide_rank=true&custom_title=aryan%27s+github+stats" width="350" height="192"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=amazingfarooqq&include_all_commits=true&count_private=true&show_icons=true&theme=material-palenight&hide=contribs&hide_rank=true&custom_title=Farooq%27s+github+stats" width="350" height="192"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazingfarooqq&layout=compact&hide=html,css,scss&theme=material-palenight&custom_title=most+used+langs"  width="350"></a>
 </p>
 

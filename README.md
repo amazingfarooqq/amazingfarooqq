@@ -39,7 +39,8 @@
 </div> 
 
 <br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amazingfarooqq&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=last+30+days&area=true">
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=amazingfarooqq&label=Profile Views  &color=red&style=flat" height="24px"/>
+<img src="https://komarev.com/ghpvc/?username=amazingfarooqq&label=ProfileViews&color=red&style=flat" height="24px"/>
 </div> 

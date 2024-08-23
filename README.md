@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <p>I am currectly building @Expesh - Expesh Learning Community</p>
 </div>
 

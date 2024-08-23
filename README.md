@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./header.gif" /> 
+    <p>I am currectly building @Expesh - Expesh Learning Community</p>
 </div>
 
 <!-- </br> -->

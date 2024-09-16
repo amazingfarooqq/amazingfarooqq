@@ -11,7 +11,7 @@ My Skillset:
 
 Also use:
 
-◆ Canva
+◆ Canva.
 ◆ Php, java, c++
 ◆ Laravel
 

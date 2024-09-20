@@ -2,7 +2,7 @@ I am a web developer with extensive experience working on various projects. I st
 
 Outside of professional engagements, I actively contribute to the tech community by making open-source contributions, creating content related to programming, public speaking, and providing mentorship.
 
-My Skillset:
+My Skillset::
 
 ◆ JavaScript, NodeJS
 ◆ ReactJS, NextJS

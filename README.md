@@ -1,7 +1,7 @@
 I am a web developer with extensive experience working on various projects. I started as a Junior Web Developer and was promoted to Web Developer. I explored areas in Blockchain and worked on smart contracts to build real-time projects, which helped me enhance my skills beyond web design and development.
 
 Outside of professional engagements, I actively contribute to the tech community by making open-source contributions, creating content related to programming, public speaking, and providing mentorship.
-
+.
 My Skillset:
 
 ◆ JavaScript, NodeJS
